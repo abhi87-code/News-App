@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.NewsApp" parent="Theme.MaterialComponents.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/red</item>
+        <item name="colorPrimaryVariant">@color/red</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#F0F3F3</item>
+        <item name="colorSecondaryVariant">@color/white</item>
+        <item name="colorOnSecondary">#F7F2F2</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Background color -->
+        <item name="android:windowBackground">@color/white</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="SearchViewStyle" parent="Widget.AppCompat.SearchView">
+        <!-- Set background to white -->
+        <item name="android:background">@android:color/white</item>
+        <!-- Set the query hint text color to light black -->
+        <item name="android:textColorHint">#0E0D0D</item> <!-- Change to the desired color -->
+    </style>
+
+
+</resources>

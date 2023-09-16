@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="Api_Key">0f11f57f1d6549fbaed09bc141e43116</string>
+    <string name="UAE">ae</string>
+    <string name="India">in</string>
+    <string name="United_States">us</string>
+    <string name="China">cn</string>
+
+</resources>
